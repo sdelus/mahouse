@@ -1,0 +1,42 @@
+#_bn_iframe__bn_widget_ {
+    height: 350px;
+}
+
+.t1093 .t-popup__container.t-popup__container-static {
+    margin: auto !important;
+    top: 0 !important;
+}
+
+.t1093 .t-popup {
+    display: block !important;
+    opacity: 1 !important;
+    transform: translateX(100%);
+    transition: 1s;
+    transition-delay: 250ms;
+}
+
+.t1093 .t-popup_show {
+    transform: translateX(0%) !important;
+}
+
+.t1093 .t-popup__bg {
+    display: block !important;
+}
+
+.tn-elem__7758114991721771366513 {
+    @media(max-width: 767px) {
+        height: 100% !important;
+    }
+}
+#rec782216492 .t396__artboard{
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+#rec782216492 .t396__artboard::-webkit-scrollbar{
+    display: none;
+}
+#rec824856370 {
+    display: none;
+}
+
+
